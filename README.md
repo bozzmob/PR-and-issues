@@ -14,3 +14,13 @@
 - [Add support for WebView component on Android #3796](https://github.com/facebook/react-native/issues/3796)
 
 - [[Android] [Style] No shadows on Android #2768](https://github.com/facebook/react-native/issues/2768)
+
+- [UIExplorer TextInput auto scroll view example](https://github.com/facebook/react-native/issues/3309)
+
+- [[Android] [Style] No shadows on Android ](https://github.com/facebook/react-native/issues/2768#issuecomment-157391712)
+
+- [[ListView] renders all rows](https://github.com/facebook/react-native/issues/499)
+
+- [[ListView] releases responder to parent](https://github.com/facebook/react-native/issues/1847)
+
+- [[Android] Long press triggered instantly](https://github.com/facebook/react-native/issues/4088)
