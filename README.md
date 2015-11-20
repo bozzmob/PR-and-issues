@@ -24,3 +24,7 @@
 - [[ListView] releases responder to parent](https://github.com/facebook/react-native/issues/1847)
 
 - [[Android] Long press triggered instantly](https://github.com/facebook/react-native/issues/4088)
+
+- [add tel and sms intent for IntentAndroid in android UIExplorer](https://github.com/facebook/react-native/pull/4250)
+
+- [Use elevation to implement shadows on Android](https://github.com/facebook/react-native/pull/4180)
