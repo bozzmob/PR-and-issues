@@ -28,3 +28,7 @@
 - [add tel and sms intent for IntentAndroid in android UIExplorer](https://github.com/facebook/react-native/pull/4250)
 
 - [Use elevation to implement shadows on Android](https://github.com/facebook/react-native/pull/4180)
+
+- [Initial implementation of adjustsFontSizeToFit](https://github.com/facebook/react-native/pull/4026)
+
+- [Add onLoadX support on Android](https://github.com/facebook/react-native/pull/3791)
