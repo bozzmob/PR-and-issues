@@ -32,3 +32,5 @@
 - [Initial implementation of adjustsFontSizeToFit](https://github.com/facebook/react-native/pull/4026)
 
 - [Add onLoadX support on Android](https://github.com/facebook/react-native/pull/3791)
+
+- [react-native link <3rd-party addon code>](https://github.com/facebook/react-native/commit/4e5a2bc0791a77ac67c2b564a220278bea889fcf)
