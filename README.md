@@ -34,3 +34,10 @@
 - [Add onLoadX support on Android](https://github.com/facebook/react-native/pull/3791)
 
 - [react-native link <3rd-party addon code>](https://github.com/facebook/react-native/commit/4e5a2bc0791a77ac67c2b564a220278bea889fcf)
+
+
+- [React Native snackbar android](https://github.com/luggg/react-native-android-snackbar)
+
+- [ListView rows not re-rendered when parent's state updates](https://github.com/facebook/react-native/issues/4255)
+
+- [How to close development mode on android platform](https://github.com/facebook/react-native/issues/4217)
