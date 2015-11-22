@@ -27,7 +27,7 @@
 
 - [add tel and sms intent for IntentAndroid in android UIExplorer](https://github.com/facebook/react-native/pull/4250)
 
-- [Use elevation to implement shadows on Android](https://github.com/facebook/react-native/pull/4180)
+- **[Use elevation to implement shadows on Android](https://github.com/facebook/react-native/pull/4180)**
 
 - [Initial implementation of adjustsFontSizeToFit](https://github.com/facebook/react-native/pull/4026)
 
@@ -41,3 +41,5 @@
 - [ListView rows not re-rendered when parent's state updates](https://github.com/facebook/react-native/issues/4255)
 
 - [How to close development mode on android platform](https://github.com/facebook/react-native/issues/4217)
+
+- [Version of React that ships w/ React Native](https://discuss.reactjs.org/t/version-of-react-that-ships-w-react-native/2362)
