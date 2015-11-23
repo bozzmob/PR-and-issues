@@ -49,3 +49,7 @@
 - [[ScrollView] Children in a ScrollView don't always cancel touches when the ScrollView is scrolling](https://github.com/facebook/react-native/issues/3452)
 
 - [React Native Android GCM (Google Cloud Messaging) Roadmap](https://github.com/facebook/react-native/issues/3423)
+
+- [[Text] How to show "Read more" when using numberOfLines property?](https://github.com/facebook/react-native/issues/2496)
+
+- [SOLN FOR WINDOWS : gradlew assembleRelease failed](https://github.com/facebook/react-native/issues/4266)
