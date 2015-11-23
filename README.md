@@ -43,3 +43,9 @@
 - [How to close development mode on android platform](https://github.com/facebook/react-native/issues/4217)
 
 - [Version of React that ships w/ React Native](https://discuss.reactjs.org/t/version-of-react-that-ships-w-react-native/2362)
+
+- [UIRefreshControl added to scroll view](https://github.com/facebook/react-native/commit/2faf8632d350c1ecb85f20d99eabf8d48202fc82)
+
+- [[ScrollView] Children in a ScrollView don't always cancel touches when the ScrollView is scrolling](https://github.com/facebook/react-native/issues/3452)
+
+- [React Native Android GCM (Google Cloud Messaging) Roadmap](https://github.com/facebook/react-native/issues/3423)
