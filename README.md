@@ -53,3 +53,9 @@
 - [[Text] How to show "Read more" when using numberOfLines property?](https://github.com/facebook/react-native/issues/2496)
 
 - [SOLN FOR WINDOWS : gradlew assembleRelease failed](https://github.com/facebook/react-native/issues/4266)
+
+- [Add Polyline support to MapView](https://github.com/facebook/react-native/pull/4153)
+
+- [Using custom fonts in react-native project](https://github.com/facebook/react-native/issues/1167)
+
+- [[Memory Issue] When I use the repository code directly in the project, the app consumes memory every second](https://github.com/facebook/react-native/issues/3953)
