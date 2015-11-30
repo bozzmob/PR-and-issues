@@ -65,3 +65,7 @@
 - [[ScrollView] Warning: ScrollView doesn't take rejection well - scrolls anyway](https://github.com/facebook/react-native/issues/1501)
 
 - [I have implemented Shadow Views in Android with CardView equivalent, should I send pull request?](https://github.com/facebook/react-native/issues/4406)
+
+- [[Animated] Animated.multiply and Animated.add to combine animated values](https://github.com/facebook/react-native/pull/4395)
+
+- [JS exceptions are hidden from developer when using Promises (async functions)](https://github.com/facebook/react-native/issues/4045)
