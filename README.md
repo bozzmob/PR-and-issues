@@ -69,3 +69,15 @@
 - [[Animated] Animated.multiply and Animated.add to combine animated values](https://github.com/facebook/react-native/pull/4395)
 
 - [JS exceptions are hidden from developer when using Promises (async functions)](https://github.com/facebook/react-native/issues/4045)
+
+- [Use iconic font in a simple way.](https://github.com/sospartan/react-native-iconic-font)
+
+- [Android Widget](https://github.com/facebook/react-native/issues/4377)
+
+- [[ListView] performance with more complicated renderRow](https://github.com/facebook/react-native/issues/567)
+
+- [[ListView] Extra rows rendered when datasource is updated](https://github.com/facebook/react-native/issues/3156)
+
+- [stateless function components don't work](https://github.com/facebook/react-native/issues/4023)
+
+- [[RFC] Add option to prevent renderRow from being called if interaction is in progress](https://github.com/facebook/react-native/issues/2990)
