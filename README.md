@@ -59,3 +59,9 @@
 - [Using custom fonts in react-native project](https://github.com/facebook/react-native/issues/1167)
 
 - [[Memory Issue] When I use the repository code directly in the project, the app consumes memory every second](https://github.com/facebook/react-native/issues/3953)
+
+- [add Networking resource moudle](https://github.com/facebook/react-native/pull/4420)
+
+- [[ScrollView] Warning: ScrollView doesn't take rejection well - scrolls anyway](https://github.com/facebook/react-native/issues/1501)
+
+- [I have implemented Shadow Views in Android with CardView equivalent, should I send pull request?](https://github.com/facebook/react-native/issues/4406)
