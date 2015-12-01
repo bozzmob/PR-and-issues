@@ -81,3 +81,7 @@
 - [stateless function components don't work](https://github.com/facebook/react-native/issues/4023)
 
 - [[RFC] Add option to prevent renderRow from being called if interaction is in progress](https://github.com/facebook/react-native/issues/2990)
+
+- [Fix StyleSheet 'textAlign' for AndroidTextInput,rename Android native props](https://github.com/facebook/react-native/pull/4364)
+
+- [Javascript and Native development interdependency?](https://github.com/facebook/react-native/issues/4452)
