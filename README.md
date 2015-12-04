@@ -82,6 +82,10 @@
 
 - [[RFC] Add option to prevent renderRow from being called if interaction is in progress](https://github.com/facebook/react-native/issues/2990)
 
+- [Fix StyleSheet 'textAlign' for AndroidTextInput,rename Android native props](https://github.com/facebook/react-native/pull/4364)
+
+- [Javascript and Native development interdependency?](https://github.com/facebook/react-native/issues/4452)
+
 - [[ListView] rows aren't rendered until scroll](https://github.com/facebook/react-native/issues/1831)
 
 - [If users runs the react-native app with bad network](https://github.com/facebook/react-native/issues/4486)
