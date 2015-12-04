@@ -81,3 +81,11 @@
 - [stateless function components don't work](https://github.com/facebook/react-native/issues/4023)
 
 - [[RFC] Add option to prevent renderRow from being called if interaction is in progress](https://github.com/facebook/react-native/issues/2990)
+
+- [[ListView] rows aren't rendered until scroll](https://github.com/facebook/react-native/issues/1831)
+
+- [If users runs the react-native app with bad network](https://github.com/facebook/react-native/issues/4486)
+
+- [[Navigator] Animated replace](https://github.com/facebook/react-native/issues/1981)
+
+- [Full width image using flexbox?](https://github.com/facebook/react-native/issues/950)
