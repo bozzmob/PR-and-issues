@@ -93,3 +93,5 @@
 - [[Navigator] Animated replace](https://github.com/facebook/react-native/issues/1981)
 
 - [Full width image using flexbox?](https://github.com/facebook/react-native/issues/950)
+
+- [Load assets from same folder as JSbundle (Android)](https://github.com/facebook/react-native/pull/4527)
