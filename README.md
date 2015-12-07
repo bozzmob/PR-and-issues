@@ -113,3 +113,13 @@
 - [Add example of getting window dimensions to Dimensions docs.](https://github.com/facebook/react-native/pull/4211)
 
 - [fixed mardown formatting of ListView](https://github.com/facebook/react-native/pull/4532)
+
+- [Switched recommendation from superagent to frisbee](https://github.com/facebook/react-native/pull/4522)
+
+- [Trigger GC and drop compiled code on low memory](https://github.com/facebook/react-native/commit/510d50fc17157f186a593c2c02b3fcf610889c77)
+
+- [[Navigator] Custom Bar](https://github.com/facebook/react-native/issues/4334)
+
+- [[Animated] Animated.multiply and Animated.add to combine animated values](https://github.com/facebook/react-native/pull/4395)
+
+- [Fix for flow (https://github.com/facebook/flow/tree/v0.19.0](https://github.com/facebook/react-native/pull/4565)
