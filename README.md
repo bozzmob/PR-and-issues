@@ -103,3 +103,13 @@
 - [[ScrollView] Added props for disabling bouncing on certain edges.](https://github.com/facebook/react-native/pull/4607)
 
 - [[RecyclerViewBackedScrollView] Expose in public interface](https://github.com/facebook/react-native/pull/4514)
+
+- [[Switch] Remove fixed size for Android. Fixes #3785](https://github.com/facebook/react-native/pull/4298)
+
+- [Universal Linking component](https://github.com/facebook/react-native/pull/4546)
+
+- [Add deep linking support to IntentAndroid](https://github.com/facebook/react-native/pull/4320)
+
+- [Add example of getting window dimensions to Dimensions docs.](https://github.com/facebook/react-native/pull/4211)
+
+- [fixed mardown formatting of ListView](https://github.com/facebook/react-native/pull/4532)
