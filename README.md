@@ -95,3 +95,11 @@
 - [Full width image using flexbox?](https://github.com/facebook/react-native/issues/950)
 
 - [Load assets from same folder as JSbundle (Android)](https://github.com/facebook/react-native/pull/4527)
+
+- [Make style property available in Image.android.js like Image.ios.js](https://github.com/facebook/react-native/pull/4618)
+
+- [[React] Depend on "react" instead of shipping with a vendored copy](https://github.com/facebook/react-native/issues/2985)
+
+- [[ScrollView] Added props for disabling bouncing on certain edges.](https://github.com/facebook/react-native/pull/4607)
+
+- [[RecyclerViewBackedScrollView] Expose in public interface](https://github.com/facebook/react-native/pull/4514)
