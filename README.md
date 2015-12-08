@@ -123,3 +123,15 @@
 - [[Animated] Animated.multiply and Animated.add to combine animated values](https://github.com/facebook/react-native/pull/4395)
 
 - [Fix for flow (https://github.com/facebook/flow/tree/v0.19.0](https://github.com/facebook/react-native/pull/4565)
+
+- [[Android] UIExplorer- Add tel and sms for IntentAndroid](https://github.com/facebook/react-native/pull/4250)
+
+- [Allow developers to load JavaScript bundle from any source](https://github.com/facebook/react-native/commit/3a743ef228a14e07c77c5488b080413643ec9c4b)
+
+- --[add Clipboard component for ios and android](https://github.com/facebook/react-native/pull/4384) -- Checkout for Pasteboard
+
+- [add transformOrigin style property](https://github.com/facebook/react-native/pull/2106)
+
+- [Fix StyleSheet 'textAlign' for AndroidTextInput](https://github.com/facebook/react-native/pull/4481)
+
+- [Changing timeStamp to timestamp to match ios property name. Fixes #4046](https://github.com/facebook/react-native/pull/4627)
