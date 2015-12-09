@@ -143,3 +143,5 @@
 - [Document new asset system](https://github.com/facebook/react-native/pull/3545)
 
 - [[Q] poor touch performance on android](https://github.com/facebook/react-native/issues/4666)
+
+- [Use lazy getters to reduce `require('react-native')` overhead](https://github.com/facebook/react-native/commit/f9b744d50137de25357994fe2e829f98104e2242)
