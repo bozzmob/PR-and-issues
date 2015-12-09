@@ -135,3 +135,11 @@
 - [Fix StyleSheet 'textAlign' for AndroidTextInput](https://github.com/facebook/react-native/pull/4481)
 
 - [Changing timeStamp to timestamp to match ios property name. Fixes #4046](https://github.com/facebook/react-native/pull/4627)
+
+- [[Memory Issue] When I use the repository code directly in the project, the app consumes memory every second.](https://github.com/facebook/react-native/issues/3953)
+
+- [when dev=true, the js packager should't be ‘Whole Program Optimisations’ when js file changed](https://github.com/facebook/react-native/issues/4672)
+
+- [Document new asset system](https://github.com/facebook/react-native/pull/3545)
+
+- [[Q] poor touch performance on android](https://github.com/facebook/react-native/issues/4666)
