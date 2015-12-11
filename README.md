@@ -145,3 +145,13 @@
 - [[Q] poor touch performance on android](https://github.com/facebook/react-native/issues/4666)
 
 - [Use lazy getters to reduce `require('react-native')` overhead](https://github.com/facebook/react-native/commit/f9b744d50137de25357994fe2e829f98104e2242)
+
+- [Code Analysis Bot](https://github.com/facebook/react-native/pull/4687)
+
+- [fix POST/PUT/PATCH has no body redbox, when xhr is used without body](https://github.com/facebook/react-native/pull/4518)
+
+- [Add example of getting window dimensions to Dimensions docs](https://github.com/facebook/react-native/pull/4211)
+
+- [UIRefreshControl added to scroll view](https://github.com/facebook/react-native/pull/4205)
+
+- [How to detect timezone?](https://github.com/facebook/react-native/issues/4691)
