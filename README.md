@@ -155,3 +155,9 @@
 - [UIRefreshControl added to scroll view](https://github.com/facebook/react-native/pull/4205)
 
 - [How to detect timezone?](https://github.com/facebook/react-native/issues/4691)
+
+- [Android support - react-native-video](https://github.com/brentvatne/react-native-video/pull/103)
+
+- [Avoid interrupting scrolling in nested scrollviews](https://github.com/facebook/react-native/commit/67bf0f1a70aa6efc667a6fe4499ae7c2212332ff)
+
+- [Improve Text perf](https://github.com/facebook/react-native/commit/4ce03582a0013e60417dedbf2f760d00e687e540)
