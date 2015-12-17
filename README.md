@@ -169,3 +169,7 @@
 - [android clipboard add error callback](https://github.com/facebook/react-native/pull/4792)
 
 - [Add a base activity for React Native apps](https://github.com/facebook/react-native/pull/4827)
+
+- [Implement timeout and ontimeout on XMLHttpRequest](https://github.com/facebook/react-native/pull/4832)
+
+- [Add link to more info for ReadableMap and ReadableArray](https://github.com/facebook/react-native/pull/4804)
