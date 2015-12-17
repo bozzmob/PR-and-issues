@@ -161,3 +161,11 @@
 - [Avoid interrupting scrolling in nested scrollviews](https://github.com/facebook/react-native/commit/67bf0f1a70aa6efc667a6fe4499ae7c2212332ff)
 
 - [Improve Text perf](https://github.com/facebook/react-native/commit/4ce03582a0013e60417dedbf2f760d00e687e540)
+
+- [Update to PullToRefreshViewAndroid docs](https://github.com/facebook/react-native/pull/4814)
+
+- [allow use external typeface in native code](https://github.com/facebook/react-native/pull/4696)
+
+- [android clipboard add error callback](https://github.com/facebook/react-native/pull/4792)
+
+- [Add a base activity for React Native apps](https://github.com/facebook/react-native/pull/4827)
