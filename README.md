@@ -173,3 +173,7 @@
 - [Implement timeout and ontimeout on XMLHttpRequest](https://github.com/facebook/react-native/pull/4832)
 
 - [Add link to more info for ReadableMap and ReadableArray](https://github.com/facebook/react-native/pull/4804)
+
+- [Can I update specific route in initialRouteStack when navigator jumpTo it?](https://github.com/facebook/react-native/issues/4859)
+
+- [[Android] fetch with Accept-encoding gzip does not work](https://github.com/facebook/react-native/issues/3572)
