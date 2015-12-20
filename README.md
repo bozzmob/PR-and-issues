@@ -185,3 +185,11 @@
 - [[Doc][Animation guide][Minor]fix comment by shifting to seperate line](https://github.com/facebook/react-native/pull/4884)
 
 - [How to upgrade React Native](https://github.com/facebook/react-native/issues/4874)
+
+- [React-Native Memory Leakage Animation Issue](https://github.com/facebook/react-native/issues/4875)
+
+- [How can I get the selected text from TextInput](https://github.com/facebook/react-native/issues/4887)
+
+- [[Android][ScrollView] Support sticky section headers on Android](https://github.com/facebook/react-native/issues/2700)
+
+- [[Android] App crashes when scrolling in a ListView](https://github.com/facebook/react-native/issues/4842)
