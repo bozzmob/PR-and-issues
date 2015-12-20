@@ -177,3 +177,11 @@
 - [Can I update specific route in initialRouteStack when navigator jumpTo it?](https://github.com/facebook/react-native/issues/4859)
 
 - [[Android] fetch with Accept-encoding gzip does not work](https://github.com/facebook/react-native/issues/3572)
+
+- [adds sample library distinction](https://github.com/facebook/react-native/pull/4883)
+
+- [[Doc][Android][Minor][PanResponder]add doc for native event in doc](https://github.com/facebook/react-native/pull/4872)
+
+- [[Doc][Animation guide][Minor]fix comment by shifting to seperate line](https://github.com/facebook/react-native/pull/4884)
+
+- [How to upgrade React Native](https://github.com/facebook/react-native/issues/4874)
