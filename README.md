@@ -193,3 +193,5 @@
 - [[Android][ScrollView] Support sticky section headers on Android](https://github.com/facebook/react-native/issues/2700)
 
 - [[Android] App crashes when scrolling in a ListView](https://github.com/facebook/react-native/issues/4842)
+
+- [Implementing native admob view in Android](https://github.com/facebook/react-native/issues/3820)
