@@ -195,3 +195,5 @@
 - [[Android] App crashes when scrolling in a ListView](https://github.com/facebook/react-native/issues/4842)
 
 - [Implementing native admob view in Android](https://github.com/facebook/react-native/issues/3820)
+
+- [In 0.17, WebView on Android failed to show UTF-8 characters](https://github.com/facebook/react-native/issues/4873)
