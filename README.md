@@ -197,3 +197,5 @@
 - [Implementing native admob view in Android](https://github.com/facebook/react-native/issues/3820)
 
 - [In 0.17, WebView on Android failed to show UTF-8 characters](https://github.com/facebook/react-native/issues/4873)
+
+- [onLongPress (and delayLongPress) triggers immediately](https://github.com/facebook/react-native/issues/4944)
