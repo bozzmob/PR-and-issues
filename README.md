@@ -199,3 +199,11 @@
 - [In 0.17, WebView on Android failed to show UTF-8 characters](https://github.com/facebook/react-native/issues/4873)
 
 - [onLongPress (and delayLongPress) triggers immediately](https://github.com/facebook/react-native/issues/4944)
+
+- [add react-native version output for -v/--version](https://github.com/facebook/react-native/pull/4983)
+
+- [Get response url from XMLHttpRequest](https://github.com/facebook/react-native/pull/4981)
+
+- [IncrementalPreview](https://github.com/facebook/react-native/pull/4953)
+
+- [Fix permissions on Android 6.0](https://github.com/facebook/react-native/pull/4689)
