@@ -211,3 +211,9 @@
 - [[android] custom back button handler](https://github.com/facebook/react-native/pull/5062)
 
 - [is ~8mb the smallest size RN android apk can get?](https://github.com/facebook/react-native/issues/5037)
+
+- [[Android][ScrollView] Support sticky section headers on Android](https://github.com/facebook/react-native/issues/2700)
+
+- [SVG Support?](https://github.com/facebook/react-native/issues/4929)
+
+- [Add <Text> shadow support](https://github.com/facebook/react-native/pull/4975)
