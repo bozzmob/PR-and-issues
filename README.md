@@ -207,3 +207,7 @@
 - [IncrementalPreview](https://github.com/facebook/react-native/pull/4953)
 
 - [Fix permissions on Android 6.0](https://github.com/facebook/react-native/pull/4689)
+
+- [[android] custom back button handler](https://github.com/facebook/react-native/pull/5062)
+
+- [is ~8mb the smallest size RN android apk can get?](https://github.com/facebook/react-native/issues/5037)
