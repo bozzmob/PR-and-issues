@@ -217,3 +217,9 @@
 - [SVG Support?](https://github.com/facebook/react-native/issues/4929)
 
 - [Add <Text> shadow support](https://github.com/facebook/react-native/pull/4975)
+
+- [PixelRatio.pixel()](https://github.com/facebook/react-native/pull/5076)
+
+- [Cross platform PullToRefreshView component](https://github.com/facebook/react-native/pull/4915)
+
+- [[Discussion] React native without jsx](https://github.com/facebook/react-native/issues/1474)
