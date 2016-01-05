@@ -223,3 +223,11 @@
 - [Cross platform PullToRefreshView component](https://github.com/facebook/react-native/pull/4915)
 
 - [[Discussion] React native without jsx](https://github.com/facebook/react-native/issues/1474)
+
+- [Slow ListView row rendering](https://github.com/facebook/react-native/issues/5034)
+
+- [I have a react-native bundle server. When process multi request , got Errors at Create ReactPackager step.](https://github.com/facebook/react-native/issues/4550)
+
+- [Cannot access CameraRoll - undefined is not an object(evaluating RCTCameraRollManager.getPhotos)](https://github.com/facebook/react-native/issues/4560)
+
+- [React native js layers with android Java layer communication, real-time communication](https://github.com/facebook/react-native/issues/5078)
