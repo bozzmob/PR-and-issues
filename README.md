@@ -231,3 +231,9 @@
 - [Cannot access CameraRoll - undefined is not an object(evaluating RCTCameraRollManager.getPhotos)](https://github.com/facebook/react-native/issues/4560)
 
 - [React native js layers with android Java layer communication, real-time communication](https://github.com/facebook/react-native/issues/5078)
+
+- [[Navigator & ListView & Image] Navigation Breaks Images](https://github.com/facebook/react-native/issues/1161)
+
+- [[Image + Packager] Warn when can't find require for images](https://github.com/facebook/react-native/issues/1098)
+
+- [[ListView] 0.8-rc stickyHeaderIndices、removeClippedSubviews bug](https://github.com/facebook/react-native/issues/2085)
